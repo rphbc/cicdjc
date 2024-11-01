@@ -5,5 +5,5 @@ class Test_soma:
         assert soma(1, 2) == 3
 
     def test_divisao(self):
-        assert divisao(1, 2) == 0.5
+        assert divisao(1, 0) == 0.5
     
