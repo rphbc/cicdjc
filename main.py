@@ -1,5 +1,5 @@
-def soma(a, b):
-    return a + b
+def soma(a, c):
+    return a + c
 
 def divisao(a, b):
     try:  
